@@ -3,3 +3,24 @@ logo: /assets/img/circ-pfp.png
 # description: text below image
 # show_downloads: true
 theme: jekyll-theme-minimal
+
+include:
+  - assets/css
+
+sass:
+  style: compressed
+
+style: |
+  header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+
+  header img {
+    margin-top: 10px;
+    max-width: 150px;
+    border-radius: 50%;
+  }
