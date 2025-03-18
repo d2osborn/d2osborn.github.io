@@ -1,1 +1,5 @@
-# d2osborn.github.io
+# Data Scientist
+
+### Education
+
+* UCSD
