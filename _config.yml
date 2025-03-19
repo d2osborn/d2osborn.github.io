@@ -1,26 +1,5 @@
 title: Diego Osborn
 logo: /assets/img/circ-pfp.png
-# description: text below image
+description: Hey there! My name is Diego, I am a baseball geek and I study Data Science with minors in Economics and Mathematics at the University of California, San Diego.
 # show_downloads: true
 theme: jekyll-theme-minimal
-
-include:
-  - assets/css
-
-sass:
-  style: compressed
-
-style: |
-  header {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-  }
-
-  header img {
-    margin-top: 10px;
-    max-width: 150px;
-    border-radius: 50%;
-  }
